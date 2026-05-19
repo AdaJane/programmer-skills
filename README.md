@@ -25,3 +25,34 @@ In Claude Code:
 /plugin marketplace add AdaJane/programmer-skills
 /plugin install pragmatic-programmer
 ```
+
+## Recommended but Optional
+Here's what my user-space CLAUDE.md looks like at the moment:
+
+```md
+Prefer enums and constants over string literals and magic numbers
+
+Use a functional programming style with minimal mutability
+
+Use test-driven-development to ensure correct behavior of business logic
+
+Prefer off-the-shelf libraries to custom solutions, especially where the solution concerns mathematics, cryptography, unit-testing mocks, network request interaction, multi-media interaction, and peripheral interaction, exceptions to this should be made in the event that the novel work of the project involves one of these fields, (i.e. don't import a remote cryptography library if the local project is intentionally implementing novel custom cryptography )
+
+When working on Rust projects always check if the modeule you are working in is 'no_std' and be thoughtful when using things like Vec and String in those cases
+
+Keep comments and documentation brief and concise.
+
+Prioritize simplicity, minimizing complexity and lines of code generated.
+
+When working on code repo, identify existing architectural choices such as Object-Oriented, functional, pure, macro-heavy, trait-heavy, etc, and attempt to mimic those conventions in new and refactored code. Essentially, practice "chameleon coding" unless it will compromise the integrity of the final product.
+
+Take care in the crafting of your code — slow down before signing off on work you wouldn't be proud of revisiting in six months. Think deliberately about what you are doing while you are doing it; never program on autopilot or by coincidence.
+
+When reporting a blocker, limitation, or anything you can't do, provide concrete options with trade-offs and a recommendation — never deliver an excuse without alternatives.
+
+Lead with the big picture before the details; tailor explanations to what the reader actually needs to act on.
+
+Treat quality as an explicit requirement, not an afterthought — name the quality bar up front, not after the fact.
+
+Treat your knowledge as a portfolio: diversify, invest regularly, and critically evaluate sources rather than parroting them.
+```
