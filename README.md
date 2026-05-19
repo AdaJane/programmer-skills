@@ -10,9 +10,9 @@ This is very much an experiment of a thesis with no supporting data and should b
 ## Content
 So far:
  [X] - Small sharp skills distilled from Hunt & Thomas's *The Pragmatic Programmer*.
+ [X] - Small sharp skills distilled from Eric S. Raymond's *The Art of Unix Programming*.
 
 Next(?):
- [ ] - The Art of Unix Programming
  [ ] - Codecraft
  [ ] - Head First Design Patterns
  [ ] - Thinking Low-Level, Writing High-Level
