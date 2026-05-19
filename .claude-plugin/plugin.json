@@ -1,0 +1,11 @@
+{
+  "name": "pragmatic-programmer",
+  "description": "Small sharp skills distilled from Hunt & Thomas's Pragmatic Programmer — composable workflows for decision-making, debugging, hygiene, and defensive design.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ada Jane Anderson",
+    "email": "ada@somepanic.com"
+  },
+  "license": "MIT",
+  "keywords": ["pragmatic-programmer", "workflows", "debugging", "refactoring", "craft"]
+}
