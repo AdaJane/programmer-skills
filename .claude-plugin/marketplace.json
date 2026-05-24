@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Skills to make a pragmatic programmer.",
-    "version": "0.2.0"
+    "version": "0.2.1"
   },
   "plugins": [
     {
       "name": "pragmatic-programmer",
       "source": "./",
       "description": "Small sharp skills distilled from Hunt & Thomas's Pragmatic Programmer and Eric S. Raymond's Art of Unix Programming — composable workflows for decision-making, debugging, hygiene, defensive design, and Unix-style composition.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "author": {
         "name": "Ada Jane Anderson",
         "email": "ada@somepanic.com"
