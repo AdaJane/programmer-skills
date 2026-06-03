@@ -1,11 +1,11 @@
 {
   "name": "pragmatic-programmer",
-  "description": "Small sharp skills distilled from Hunt & Thomas's Pragmatic Programmer and Eric S. Raymond's Art of Unix Programming — composable workflows for decision-making, debugging, hygiene, defensive design, and Unix-style composition.",
-  "version": "0.2.1",
+  "description": "Small sharp skills distilled from Hunt & Thomas's Pragmatic Programmer, Eric S. Raymond's Art of Unix Programming, and Nadim Kobeissi's Post-Quantum Migration Playbook — composable workflows for decision-making, debugging, hygiene, defensive design, Unix-style composition, and post-quantum cryptography migration.",
+  "version": "0.3.0",
   "author": {
     "name": "Ada Jane Anderson",
     "email": "ada@somepanic.com"
   },
   "license": "MIT",
-  "keywords": ["pragmatic-programmer", "unix", "workflows", "debugging", "refactoring", "composition", "craft"]
+  "keywords": ["pragmatic-programmer", "unix", "workflows", "debugging", "refactoring", "composition", "craft", "post-quantum", "cryptography", "migration"]
 }

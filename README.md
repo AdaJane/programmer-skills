@@ -11,6 +11,7 @@ This is very much an experiment of a thesis with no supporting data and should b
 So far:
  [X] - Small sharp skills distilled from Hunt & Thomas's *The Pragmatic Programmer*.
  [X] - Small sharp skills distilled from Eric S. Raymond's *The Art of Unix Programming*.
+ [X] - Small sharp `pqc-*` skills distilled from Nadim Kobeissi's *Post-Quantum Migration Playbook*.
 
 Next(?):
  [ ] - Codecraft
