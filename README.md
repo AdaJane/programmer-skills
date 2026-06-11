@@ -57,3 +57,7 @@ Treat quality as an explicit requirement, not an afterthought — name the quali
 
 Treat your knowledge as a portfolio: diversify, invest regularly, and critically evaluate sources rather than parroting them.
 ```
+
+## License
+
+[MIT](LICENSE) © Ada Jane Anderson
